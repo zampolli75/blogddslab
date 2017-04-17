@@ -23,7 +23,7 @@ short_url: 'zampolli75.github.io/introduction_to_IS_website/'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /introduction_to_IS_website
+baseurl: /introduction_to_IS_website/
 
 # Permalinks
 permalink: /:title
@@ -57,7 +57,7 @@ exclude: [vendor]
 safe: false
 lsi: false
 username: biomadeira
-repo: jasper
+repo: introduction_to_IS_website
 branch: master
 relative_source: ../introduction_to_IS_website/
 destination: ../jasper-pages/
