@@ -7,11 +7,11 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Introduction to Information Systems'
+description: "Ideas, thoughts, and reflections about Information Systems"
 
 # Author's info
-author: 'Casper McFadden'
+author: 'Digital Data Streams Lab'
 # edit 'categories' in the front matter of every post to match this username
 nickname: casper
 bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'

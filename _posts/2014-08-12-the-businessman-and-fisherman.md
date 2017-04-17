@@ -2,7 +2,7 @@
 layout: post
 cover: 'assets/images/cover7.jpg'
 title: The Businessman & the fisherman
-date:   2014-08-12 10:18:00
+date:   2017-04-16 10:18:00
 tags: fables fiction
 subclass: 'post tag-test tag-content'
 categories: 'casper'
@@ -10,36 +10,21 @@ navigation: True
 logo: 'assets/images/ghost.png'
 ---
 
-An American businessman took a vacation to a small coastal Mexican village on doctor’s orders. Unable to sleep after an urgent phone call from the office the first morning, he walked out to the pier to clear his head. A small boat with just one fisherman had docked, and inside the boat were several large yellowfin tuna. The American complimented the Mexican on the quality of his fish.
+Attached is the syllabus and the current schedule. As you will see I tried to hit a blend of all three aspects of what we do in IS:
+1. Practical Skills (totally agree with Cassie assessment there). Moreover really getting good at excel is empowering for an 18 year old who can then show people up in their internship (this used to be very true 10 years ago when I was associated with a similar course at another university… ).
+2. IS concepts (see IS foundations in the schedule). Totally agree with Blake here. Important stuff, area of interest I share with Blake indeed, easy sell for me.
+3. IT concepts. This is where the rub is. I agree that my job 1 is to excite them about IS and that I am trying to get more majors.  But many of this kids have never taken an Uber and dont really know what a Tesla is…. doesn’t all this “hand weaving” about some gigantic silicon valley firm get old after a while? I am afraid that it sounds like a bunch of fluff after a bit to them (in the MBA fluff is more accepted I guess :-). These are freshies, a little bit is good (e.g., I do two lectures on network effects and info econ and they *love* that… but they dont even know what an ERP is…. are they really going to appreciate Tesla strategic move in that area?
 
-“How long did it take you to catch them?” the American asked.
+I think in an effort to make IS fun we have (sometimes) turned it into fluff… this tradeoff is clear in Merrill’s point about evals going up when you drop the IT stuff…. my sense is that there is a missing variable in this theory. That variable is “perceived practicality/applicability.” I think that’s were we heave thrown the baby with the bath water. Because it is hard to show the importance of knowing the von Neumann architecture, we have convinced ourselves that “strategic IT choices” are more important…. but these are freshman. In my class today I asked what Nescape was… no answer (fair enough) then I asked what Chrome was. They told me a browser. I asked what that was. Blank for a dozen seconds then, upon prodding, one shaky answer about being an “app to browse the Internet”…. debatable but I can work with that…. That is software they use every day (every second almost!)…  I am pretty confident they dont have the foggiest idea about what an ERP is. And when I “explain it” without being able to show it to them they will probably just tune me out.
+Now, compare to this the following: We all agree that Moore’s law is important. They all know their cellphone is more powerful than the computer driving the Apollo… someone told them that Mr. Moore and his law were somewhat related … but WHY? Zero chance of even fathoming an answer to that one. But hey, just a bit of knowledge about logic gates and a hands on demonstration with it might convince you that “combinations of transistors" are really what "computer power” is all about. Now they know Moore’s law. They experienced it in a practical way. Can that be done in a class? Can that be done with a personally relevant, hands on approach? … I dont know, maybe with something like this? https://logic.ly/demo/
 
-“Only a little while,” the Mexican replied in surprisingly good English.
+Cassie, assuming you got to read all the way down here, you are now convinced that Blake was not bing overly harsh when accused me of being “a little too intent on defending your own design”… in fairness, I have been know to have a hard head.
 
-“Why don’t you stay out longer and catch more fish?” the American then asked.
+I may be guilty of hard headedness… but now that you see the syllabus and the schedule i;d love your reaction to the central question Blake raises - balance. This is a *first year required* class for all business college students (1500) for which my main goals are
+1. do right by the students and offer them a high quality course that will be useful for their college and (hopefully beyond) career
+2. get as many as possible clear on what IS really is - 99% of them have NO IDEA
+3. get as many as will get excited about this stuff to switch and major in IS
 
-“I have enough to support my family and give a few to friends,” the Mexican said as he unloaded them into a basket.
+Final note. Ironically it would be easier and more fun for me to cut out the IT basics, my textbook is "IS for Managers," not I"T concepts for freshmen" :-) However, it just feels to me that it would be a mistake not to cover the key foundational concepts as well as possible.
 
-“But… What do you do with the rest of your time?”
-
-The Mexican looked up and smiled. “I sleep late, fish a little, play with my children, take a siesta with my wife, Julia, and stroll into the village each evening, where I sip wine and play guitar with my amigos. I have a full and busy life, señor.”
-
-The American laughed and stood tall. “Sir, I’m a Harvard M.B.A. and can help you. You should spend more time fishing, and with the proceeds, buy a bigger boat. In no time, you could buy several boats with the increased haul. Eventually, you would have a fleet of fishing boats.”
-
-He continued, “Instead of selling your catch to a middleman, you would sell directly to the consumers, eventually opening your own cannery. You would control the product, processing, and distribution. You would need to leave this small coastal fishing village, of course, and move to Mexico City, then to Los Angeles, and eventually to New York City, where you could run your expanded enterprise with proper management.
-
-The Mexican fisherman asked, “But, señor, how long will all this take?”
-
-To which the American replied, “15-20 years, 25 tops.”
-
-“But what then, señor?”
-
-The American laughed and said, “That’s the best part. When the time is right, you would announce an IPO and sell your company stock to the public and become very rich. You would make millions.”
-
-“Millions señor? Then what?"
-
-“Then you would retire and move to a small coastal fishing village, where you would sleep late, fish a little, play with your kids, take a siesta with your wife, and stroll in to the village in the evenings where you could sip wine and play your guitar with your amigos.”
-
-Adapted from the "Anekdote zur Senkung der Arbeitsmoral" by **Heinrich Böll**
-
-An influential German write and Nobel Prize for Literature in 1972.
+Thanks for you time and input. Happy to Skype as well if you are so inclined. — G
