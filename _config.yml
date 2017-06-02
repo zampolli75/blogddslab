@@ -20,7 +20,7 @@ location: 'Louisiana State University, USA'
 url: 'http://blog.ddslab.org'
 image: 'assets/images/casper.png'
 
-short_url: 'zampolli75.github.io/introduction_to_IS_website/'
+short_url: 'blog.ddslab.org'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
