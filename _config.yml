@@ -24,7 +24,7 @@ short_url: 'blog.ddslab.org'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: /introduction_to_IS_website/
 
 # Permalinks
 permalink: /:title
