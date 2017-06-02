@@ -6,8 +6,7 @@ date:   2017-04-16 10:18:00
 tags: 
 - introduction to information systems
 subclass: 'post tag-test tag-content'
-categories: 
-- DDS Lab
+categories: DDSLab
 navigation: True
 logo: 'assets/images/ghost.png'
 ---
