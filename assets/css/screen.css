@@ -817,8 +817,8 @@ body.nav-opened .nav {
 
 /* When the navigation is closed */
 .nav-closed .menu-button {
-    color: #fff;
-    border-color: rgba(255, 255, 255, 0.6);
+    color: #000000;
+    border-color: rgba(0, 0, 0, 0.6);
 }
 .nav-closed .menu-button:hover {
     color: #222;
@@ -826,8 +826,8 @@ body.nav-opened .nav {
 
 /* When the navigation is closed and there is no cover image */
 .nav-closed .no-cover .menu-button {
-    border-color: #BFC8CD;
-    color: #9EABB3;
+    border-color: rgba(0, 0, 0, 0.6);
+    color: #000000;
 }
 .nav-closed .no-cover .menu-button:hover {
     border-color: #555;

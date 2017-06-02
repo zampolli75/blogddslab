@@ -7,16 +7,17 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Introduction to Information Systems'
+name: 'Digital Data Streams Blog'
 description: "Ideas, thoughts, and reflections about Information Systems"
 
 # Author's info
 author: 'Digital Data Streams Lab'
 # edit 'categories' in the front matter of every post to match this username
-nickname: DDSLab
-bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
+nickname: 'DDS Lab'
+bio: 'The mission of the DDS Lab is to be at the forefront of knowledge and understanding of DDS - from their generation and processing to their productive and strategic use.'
 location: 'Louisiana State University, USA'
-url: 'https://zampolli75.github.io/introduction_to_IS_website/'
+# url: 'https://zampolli75.github.io/introduction_to_IS_website/'
+url: 'http://blog.ddslab.org'
 image: 'assets/images/casper.png'
 
 short_url: 'zampolli75.github.io/introduction_to_IS_website/'
