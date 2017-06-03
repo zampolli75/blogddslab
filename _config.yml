@@ -57,13 +57,13 @@ exclude: [vendor]
 # or "master" otherwise
 safe: false
 lsi: false
-username: biomadeira
+username: zampolli75
 repo: introduction_to_IS_website
 branch: master
 relative_source: ../introduction_to_is_website/
-destination: ../is-pages/
+destination: ../site/
 production_url:  https://github.com/zampolli75/introduction_to_is_website/
-source_url:      https://github.com/biomadeira/jasper/
+source_url:      https://github.com/zampolli75/introduction_to_is_website/
 
 exclude:
   - README.md
