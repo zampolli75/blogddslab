@@ -1,8 +1,8 @@
 sudo: false
 language: ruby
-cache: 
-  bundler: true
-  edge: true
+# cache: 
+#   bundler: true
+#   edge: true
 rvm:
 #- 2.1
 - 2.1.1
