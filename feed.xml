@@ -1,28 +1,28 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.name | xml_escape }} - Articles</title>
-    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
+    <title>Digital Data Streams Blog - Articles</title>
+    <description>Ideas, thoughts, and reflections about Information Systems</description>
     <link>
-    {{ site.url }}</link>
-    {% for post in site.posts %}
-      {% unless post.link %}
+    http://blog.ddslab.org</link>
+    
+      
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        {% if post.excerpt %}
-          <description>{{ post.excerpt | xml_escape }}</description>
-        {% else %}
-          <description>{{ post.content | xml_escape }}</description>
-        {% endif %}
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+        <title>Introduction to IT</title>
+        
+          <description>&lt;blockquote&gt;
+	&lt;p&gt;“Computer literacy is a contact with the activity of computing deep enough to make the computational equivalent of reading and writing fluent and enjoyable.”&lt;cite&gt; – Alan Kay&lt;/cite&gt;
+	&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</description>
+        
+        <pubDate>Sun, 16 Apr 2017 05:18:00 -0500</pubDate>
         <link>
-        {{ site.url }}{{ post.url }}</link>
-        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+        http://blog.ddslab.org/introduction-to-is</link>
+        <guid isPermaLink="true">http://blog.ddslab.org/introduction-to-is</guid>
       </item>
-      {% endunless %}
-    {% endfor %}
+      
+    
   </channel>
 </rss>
