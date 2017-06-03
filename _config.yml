@@ -61,7 +61,7 @@ username: zampolli75
 repo: introduction_to_IS_website
 branch: master
 relative_source: ../introduction_to_is_website/
-destination: ../site/
+destination: ../introduction_to_is_website/
 production_url:  https://github.com/zampolli75/introduction_to_is_website/
 source_url:      https://github.com/zampolli75/introduction_to_is_website/
 
