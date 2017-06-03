@@ -58,7 +58,7 @@ exclude: [vendor]
 safe: false
 lsi: false
 username: zampolli75
-repo: introduction_to_IS_website
+repo: introduction_to_is_website
 branch: master
 relative_source: ../introduction_to_is_website/
 destination: ../introduction_to_is_website/
