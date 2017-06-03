@@ -8,7 +8,7 @@ language: 'en-uk'
 
 # Website info
 name: 'Digital Data Streams Blog'
-description: "Ideas, thoughts, and reflections about Information Systems"
+description: 'Ideas, thoughts, and reflections about Information Systems'
 
 # Author's info
 author: 'Digital Data Streams Lab'
@@ -60,9 +60,9 @@ lsi: false
 username: biomadeira
 repo: introduction_to_IS_website
 branch: master
-relative_source: ../introduction_to_IS_website/
-destination: ../jasper-pages/
-production_url:  https://github.com/zampolli75/introduction_to_IS_website/
+relative_source: ../introduction_to_is_website/
+destination: ../is-pages/
+production_url:  https://github.com/zampolli75/introduction_to_is_website/
 source_url:      https://github.com/biomadeira/jasper/
 
 exclude:
